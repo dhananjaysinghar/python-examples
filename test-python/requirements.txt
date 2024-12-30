@@ -4,3 +4,4 @@ faiss-cpu
 transformers
 sentence-transformers
 requests
+wikipedia-api
