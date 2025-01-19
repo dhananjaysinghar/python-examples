@@ -2,7 +2,7 @@
 ```python -m venv venv```
 
 ## Activate Virtual Environment
-- Mac: ```source venv/bin/activate.sh```
+- Mac: ```source venv/bin/activate```
 - Windows: ```vnev\Script\activate.bat```
 
 
